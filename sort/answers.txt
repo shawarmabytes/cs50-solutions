@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: On average, it is the slowest. The time of reversed50k is around 5.7s and random50k around 7.6s
+
+sort2 uses: merge sort
+
+How do you know?: I ran all the files, and on average, it is the fastest among the three. reversed50k and random50k are both around 0.8s
+
+sort3 uses: selection sort
+
+How do you know?: On average, it is the second fastest sorter with a time of around 3.4s for the reversed50k and around 3.5s for the random50k
